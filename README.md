@@ -3,7 +3,7 @@
 
 **Solución del desafío de Startup Ranking**
 
-**Ruta de la solución** :tw-27a1:    src\test\java\startup\challenge
+**Ruta de la solución ==>** src\test\java\startup\challenge
 
 Librerías y drivers utilizados:
 - Junit
